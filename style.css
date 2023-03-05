@@ -1,0 +1,37 @@
+h1
+{
+    color:red
+}
+h2
+{
+color: red;
+font-style: italic;
+}
+li
+{
+    color: rgb(172, 7, 7);
+}
+p
+{
+    color: rgb(172, 7, 7);  
+}
+.point1
+{
+    text-decoration: line-through;
+}
+.point2
+{
+  background-color: yellow;  
+}
+#point3
+{
+    text-decoration: underline;
+}
+
+a
+{
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(172, 7, 7);
+    background-color: yellow;
+}
